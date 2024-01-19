@@ -1,0 +1,29 @@
+
+h1 {
+
+  color: white;
+  font-size: bigger;
+  font-style: inherit;
+
+  
+}
+
+section {
+  text-align: right;
+  margin: 12px;
+  padding: 8px;}
+
+  header{
+    text-align: center;
+    background-color: black;
+    margin: 0 auto;
+padding: 12px;
+font-style: italic;
+ }
+ 
+
+
+main {
+
+  text-align: center;
+}
